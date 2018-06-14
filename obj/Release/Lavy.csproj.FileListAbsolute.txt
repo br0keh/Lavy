@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.frmDashboard.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.frmLogin.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.frmSplash.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.csproj.CopyComplete
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\Lavy.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\t69haSAA7K.Properties.Resources.resources
+C:\Users\user\source\repos\Lavy\Lavy\bin\Release\2r33f03fh30fb3f3ub0asas0n3.exe.config
+C:\Users\user\source\repos\Lavy\Lavy\bin\Release\2r33f03fh30fb3f3ub0asas0n3.exe
+C:\Users\user\source\repos\Lavy\Lavy\bin\Release\2r33f03fh30fb3f3ub0asas0n3.pdb
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\2r33f03fh30fb3f3ub0asas0n3.exe
+C:\Users\user\source\repos\Lavy\Lavy\obj\Release\2r33f03fh30fb3f3ub0asas0n3.pdb

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.Properties.Resources.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.csproj.GenerateResource.Cache
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lavy\Lavy\bin\Debug\Lavy.exe.config
+C:\Users\user\source\repos\Lavy\Lavy\bin\Debug\Lavy.exe
+C:\Users\user\source\repos\Lavy\Lavy\bin\Debug\Lavy.pdb
+C:\Users\user\source\repos\Lavy\Lavy\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.exe
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.pdb
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.frmSplash.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.frmLogin.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.frmDashboard.resources
+C:\Users\user\source\repos\Lavy\Lavy\obj\Debug\Lavy.csproj.CopyComplete
+C:\Users\user\source\repos\Lavy\Lavy\bin\Debug\MetroFramework.dll
